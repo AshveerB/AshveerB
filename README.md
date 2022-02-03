@@ -27,5 +27,5 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
 ## 📫 How To Reach Me
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashveerbhayroo@gmail.com)](mailto:ashveerbhyaroo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashveerbhayroo@gmail.com)](mailto:ashveerbhayroo@gmail.com)
 <a href="https://www.linkedin.com/in/ashveer-bhayroo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
