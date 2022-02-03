@@ -1,17 +1,3 @@
-<!--
-**AshveerB/AshveerB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2> Hi there! I'm Ash 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -28,8 +14,8 @@ Here are some ideas to get you started:
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -40,3 +26,6 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
+## 📫 How To Reach Me
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashveerbhayroo@gmail.com)](mailto:ashveerbhyaroo@gmail.com)
+<a href="https://www.linkedin.com/in/ashveer-bhayroo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
