@@ -15,9 +15,8 @@
 
 <h3> 📫 &nbsp;Contact Info</h3> 
 
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashveerbhayroo@gmail.com)](mailto:ashveerbhayroo@gmail.com)
-- <a href="https://www.linkedin.com/in/ashveer-bhayroo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+- :card_index: [LinkedIn](https://www.linkedin.com/in/ashveer-bhayroo/)
 - :card_index: [Portfolio](https://ashveer-bhayroo.netlify.app/)
 - :card_index: [Resume](https://docs.google.com/document/d/1i5VqLNqs5V4GaTSjt2dMuEdepHHzXmBbBoOFJNYRM9o/edit?usp=sharing)
 - :card_index: [CodePen](https://codepen.io/ABhayroo)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashveerbhayroo@gmail.com)](mailto:ashveerbhayroo@gmail.com)
