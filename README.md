@@ -9,7 +9,7 @@
 
 <h3> ✨ Visitors </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshveerB" alt="AshveerB" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshveerB" alt="AshveerB" /> </p><br />
  
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=AshveerB&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2">
  
