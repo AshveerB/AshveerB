@@ -19,4 +19,4 @@
 - :card_index: [Portfolio](https://ashveer-bhayroo.netlify.app/)
 - :card_index: [Resume](https://docs.google.com/document/d/1i5VqLNqs5V4GaTSjt2dMuEdepHHzXmBbBoOFJNYRM9o/edit?usp=sharing)
 - :card_index: [CodePen](https://codepen.io/ABhayroo)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashveerbhayroo@gmail.com)](mailto:ashveerbhayroo@gmail.com)
+- :card_index: [Gmail](mailto:ashveerbhayroo@gmail.com)
