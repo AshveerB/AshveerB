@@ -16,7 +16,7 @@
 <h3> 📫 &nbsp;Contact Info</h3> 
 
 - :card_index: [LinkedIn](https://www.linkedin.com/in/ashveer-bhayroo/)
-- :card_index: [Portfolio](https://ashveer-bhayroo.netlify.app/)
+- :card_index: [Portfolio](https://ashveer-dossier.netlify.app/)
 - :card_index: [Resume](https://docs.google.com/document/d/1i5VqLNqs5V4GaTSjt2dMuEdepHHzXmBbBoOFJNYRM9o/edit?usp=sharing)
 - :card_index: [CodePen](https://codepen.io/ABhayroo)
 - :card_index: [Gmail](mailto:ashveerbhayroo@gmail.com)
