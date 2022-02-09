@@ -4,12 +4,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🌱 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Learning more about Cloud Architecture and Blockchain Technology.
+- 🌱 &nbsp; Martial arts student and SF 49er fanatic!
 
  <h3> ✨ Visitors </h3>
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshveerB" alt="AshveerB" /> </p><br />
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshveerB" alt="AshveerB" /> </p>
  
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=AshveerB&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2">
 
